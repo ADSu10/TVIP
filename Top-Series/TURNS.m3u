@@ -1,0 +1,61 @@
+#EXTCPlayListM3U::M3U
+#EXTINF:0,1x01. Pilot
+http://79.127.126.110/Serial/TURN/S01/Turn.S01E01.480p.mkv
+#EXTINF:0,1x02. Who by Fire
+http://79.127.126.110/Serial/TURN/S01/Turn.S01E02.480p.mkv
+#EXTINF:0,1x03. Of Cabbages and Kings
+http://79.127.126.110/Serial/TURN/S01/Turn.S01E03.480p.mkv
+#EXTINF:0,1x04. Eternity How Long
+http://79.127.126.110/Serial/TURN/S01/Turn.S01E04.480p.mkv
+#EXTINF:0,1x05. Epiphany
+http://79.127.126.110/Serial/TURN/S01/Turn.S01E05.480p.mkv
+#EXTINF:0,1x06. Mr. Culpeper
+http://79.127.126.110/Serial/TURN/S01/Turn.S01E06.480p.mkv
+#EXTINF:0,1x07. Mercy Moment Murder Measure
+http://79.127.126.110/Serial/TURN/S01/Turn.S01E07.480p.mkv
+#EXTINF:0,1x08. Challenge
+http://79.127.126.110/Serial/TURN/S01/Turn.S01E08.480p.mkv
+#EXTINF:0,1x09. Against Thy Neighbor
+http://79.127.126.110/Serial/TURN/S01/Turn.S01E09.480p.mkv
+#EXTINF:0,1x10. The Battle of Setauket
+http://79.127.126.110/Serial/TURN/S01/Turn.S01E10.480p.mkv
+#EXTINF:0,2x01. Thoughts of a Free Man
+http://79.127.126.110/Serial/TURN/S02/Turn.S02E01-E02.480p.mkv
+#EXTINF:0,2x02. Hard Boiled
+http://79.127.126.110/Serial/TURN/S02/Turn.S02E01-E02.480p.mkv
+#EXTINF:0,2x03. False Flag
+http://79.127.126.110/Serial/TURN/S02/Turn.S02E03.480p.mkv
+#EXTINF:0,2x04. Men of Blood
+http://79.127.126.110/Serial/TURN/S02/Turn.S02E04.480p.mkv
+#EXTINF:0,2x05. Sealed Fate
+http://79.127.126.110/Serial/TURN/S02/Turn.S02E05.480p.mkv
+#EXTINF:0,2x06. Houses Divided
+http://79.127.126.110/Serial/TURN/S02/Turn.S02E06.480p.mkv
+#EXTINF:0,2x07. Valley Forge
+http://79.127.126.110/Serial/TURN/S02/Turn.S02E07.480p.mkv
+#EXTINF:0,2x08. Providence
+http://79.127.126.110/Serial/TURN/S02/Turn.S02E08.480p.mkv
+#EXTINF:0,2x09. The Prodigal
+http://79.127.126.110/Serial/TURN/S02/Turn.S02E09.480p.mkv
+#EXTINF:0,2x10. Gunpowder, Treason, and Plot
+http://79.127.126.110/Serial/TURN/S02/Turn.S02E10.480p.mkv
+#EXTINF:0,3x01. Valediction
+http://79.127.126.110/Serial/TURN/S03/Turn.S03E01.480p.mkv
+#EXTINF:0,3x02. Cold Murdering Bastards
+http://79.127.126.110/Serial/TURN/S03/Turn.S03E02.480p.mkv
+#EXTINF:0,3x03. Benediction
+http://79.127.126.110/Serial/TURN/S03/Turn.S03E03.480p.mkv
+#EXTINF:0,3x04. Hearts and Minds
+http://79.127.126.110/Serial/TURN/S03/Turn.S03E04.480p.mkv
+#EXTINF:0,3x05. Hypocrisy, Fraud and Tyranny
+http://79.127.126.110/Serial/TURN/S03/Turn.S03E05.480p.mkv
+#EXTINF:0,3x06. Many Mickles Make A Muckle
+http://79.127.126.110/Serial/TURN/S03/Turn.S03E06.480p.mkv
+#EXTINF:0,3x07. Judgment
+http://79.127.126.110/Serial/TURN/S03/Turn.S03E07.480p.mkv
+#EXTINF:0,3x08. Mended
+http://79.127.126.110/Serial/TURN/S03/Turn.S03E08.480p.mkv
+#EXTINF:0,3x09. Blade on the Feather
+http://79.127.126.110/Serial/TURN/S03/Turn.S03E09.480p.mkv
+#EXTINF:0,3x10. Trial and Execution
+http://79.127.126.110/Serial/TURN/S03/Turn.S03E10.480p.mkv
